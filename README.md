@@ -1,4 +1,15 @@
-ERA web interface
+#Erachain web interface
+
+## Легкий кошелек Erachain только пример
+
+он не доделан:
+
+Исходники кошелька - использовался фреймворк Vue - https://ru.vuejs.org/v2/guide/
+https://github.com/andskur/ERA_web
+
+Основа взята отсюда:
+https://github.com/misterGF/CoPilot
+
 
 Installation
 ------------
